@@ -1,4 +1,4 @@
-# Engenharia de Dados
+# Engenharia de Dado
 
 Esta pasta contém projetos focados em **Engenharia de Dados**, abordando o design, construção e manutenção de sistemas para processar grandes volumes de dados:
 
